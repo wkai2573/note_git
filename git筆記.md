@@ -43,14 +43,14 @@ __________________________________________________
 ![vscode_clone](img/vscode_clone.jpg "vscode_clone")
 
 ### 推_push
-![vscode_push_pull](img/vscode_push_pull.jpg "vscode_push_pull")
+![vscode_push](img/vscode_push.jpg "vscode_push")
 ```properties
 git push 遠端主機名 本地分支名:遠端分支名
 git push origin master
 ```
 
 ### 拉_pull
-![vscode_push_pull](img/vscode_push_pull.jpg "vscode_push_pull")
+![vscode_pull](img/vscode_pull.jpg "vscode_pull")
 ```properties
 git pull 遠端主機名 遠端分支名:本地分支名
 git pull origin master:dev
