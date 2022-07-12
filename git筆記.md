@@ -30,6 +30,12 @@ __________________________________________________
 ## 【遠端連接】
 [參考這裡](https://www.runoob.com/git/git-remote.html)
 
+### 新增遠端存儲庫_remote
+![vscode_remote](img/vscode_remote.jpg "vscode_remote")
+
+### 新case直接上傳到GitHub，自動新建存儲庫_publish
+![vscode_publish](img/vscode_publish.jpg "vscode_publish")
+
 __________________________________________________
 ## 【遠端同步】
 
